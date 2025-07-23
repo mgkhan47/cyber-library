@@ -80,7 +80,7 @@ The **Cyber Library Project** is a digital platform that combines **web scraping
 ## 📂 Project Structure  
 ```
 cyber-library/
-│── webscraper.py          # Python script for data scraping
+│── WebScraping Books.py   # Python script for data scraping
 │── import_json.php        # Imports JSON data to MySQL
 │── books.php              # Frontend display and search
 │── finalbook.json         # Book data in JSON
