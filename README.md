@@ -83,7 +83,7 @@ cyber-library/
 │── webscraper.py          # Python script for data scraping
 │── import_json.php        # Imports JSON data to MySQL
 │── books.php              # Frontend display and search
-│── books.json             # Book data in JSON
+│── finalbook.json             # Book data in JSON
 │── README.md              # Project documentation
 │── /assets                # (Optional) Images, CSS files
 ```
