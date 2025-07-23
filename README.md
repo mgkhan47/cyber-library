@@ -33,7 +33,7 @@ The **Cyber Library Project** is a digital platform that combines **web scraping
 ## 🔑 How It Works  
 1. **Data Acquisition**:  
    - Python script scrapes book data from Google Books API.  
-   - Data saved in `books.json` and Excel file.  
+   - Data saved in `finalbook.json` and Excel file.  
 
 2. **Database Setup**:  
    - Create database `cyber_library` in **phpMyAdmin**.  
@@ -64,12 +64,12 @@ The **Cyber Library Project** is a digital platform that combines **web scraping
 ### **Steps**  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/cyber-library.git
+   git clone https://github.com/mgkhan47/cyber-library.git
    ```
 2. Place project files in `htdocs` folder of XAMPP.  
 3. Start **Apache** and **MySQL** from XAMPP.  
 4. Import the database structure via **phpMyAdmin**.  
-5. Run Python script to generate `books.json` (if needed).  
+5. Run Python script to generate `finalbook.json` (if needed).  
 6. Access the app at:  
    ```
    http://localhost/books_project/books.php
