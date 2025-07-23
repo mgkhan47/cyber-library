@@ -3,7 +3,7 @@ import json
 import pandas as pd
 
 # Your Google Books API key
-API_KEY = "AIzaSyDZu5xexkEW_QdWM3Qwq2JsOdmWKEp8NLM"
+API_KEY = "AIzaSyDZu5xexkEW_QdWM3Qwq2JsOdmWK*******"
 
 # Function to fetch books based on the search query
 def fetch_books(query, api_key, max_results=1000):
