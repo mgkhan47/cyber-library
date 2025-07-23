@@ -85,7 +85,6 @@ cyber-library/
 │── books.php              # Frontend display and search
 │── finalbook.json             # Book data in JSON
 │── README.md              # Project documentation
-│── /assets                # (Optional) Images, CSS files
 ```
 
 
